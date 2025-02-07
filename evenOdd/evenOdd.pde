@@ -6,3 +6,5 @@ if (number % 2 == 1){
 else{
   println(number + " is even");
 }
+
+//Nice, NightHawks har været her :)
